@@ -1,6 +1,0 @@
-total 16
-drwxr-xr-x 3 autumn autumn 4096 Mar 11 13:30 .
-drwxr-xr-x 3 autumn autumn 4096 Mar 11 13:30 ..
-drwxr-xr-x 8 autumn autumn 4096 Mar 11 13:30 .git
--rw-r--r-- 1 autumn autumn    0 Mar 11 13:30 hi.txt
--rw-r--r-- 1 autumn autumn   62 Mar 11 11:31 README.md
